@@ -19,7 +19,6 @@ jobs:
           config_timezone: Asia/Jakarta
           plugin_activity: yes
           plugin_achievements: yes
-          plugin_code: yes
           plugin_community: yes
           plugin_contributors: yes
           plugin_followup: yes
@@ -31,7 +30,6 @@ jobs:
           plugin_matrix: yes
           plugin_notable: yes
           plugin_people: yes
-          plugin_posts: yes
           plugin_quotes: yes
           plugin_repositories: yes
           plugin_reactions: yes
