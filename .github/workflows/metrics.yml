@@ -37,6 +37,5 @@ jobs:
           plugin_reactions: yes
           plugin_repos: yes
           plugin_stars: yes
-          plugin_stargazers: yes
           plugin_traffic: yes
           plugin_translations: yes
